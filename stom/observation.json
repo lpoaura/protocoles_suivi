@@ -28,6 +28,78 @@
       "type_widget": "number",
       "attribut_label": "Effectif au delà de 100m"
     },
+    "code_atlas":  {
+      "attribut_name": "code_atlas",
+      "type_widget": "select",
+      "required": false,
+      "label": "Code atlas",
+      "values": [
+          {
+              "id": 1,
+              "label": "1 - Espèce observée"
+          },
+          {
+              "id": 2,
+              "label": "2 - Mâle chanteur"
+          },
+          {
+              "id": 3,
+              "label": "3 - Couple en période de reproduction"
+          },
+          {
+              "id": 4,
+              "label": "4 - Comportement territorial"
+          },
+          {
+              "id": 5,
+              "label": "5 - Parade nuptiale"
+          },
+          {
+              "id": 6,
+              "label": "6 - Visite d'un site de nidification probable"
+          },
+          {
+              "id": 7,
+              "label": "7 - Cri d'alarme ou comportement agité"
+          },
+          {
+              "id": 8,
+              "label": "8 - Plaque incubatrice"
+          },
+          {
+              "id": 9,
+              "label": "9 - Construction d'un nid"
+          },
+          {
+              "id": 10,
+              "label": "10 - Transport de matériaux"
+          },
+          {
+              "id": 11,
+              "label": "11 - Nid vide ayant été utilisé"
+          },
+          {
+              "id": 12,
+              "label": "12 - Adulte quittant un nid occupé"
+          },
+          {
+              "id": 13,
+              "label": "13 - Adulte gagnant ou quittant un site de nidification"
+          },
+          {
+              "id": 14,
+              "label": "14 - Transport de nourriture"
+          },
+          {
+              "id": 15,
+              "label": "15 - Jeunes récemment envolés"
+          },
+          {
+              "id": 16,
+              "label": "16 - Nid occupé"
+          }
+      ]
+  },
     "presence_juvenile": {
       "type_widget": "bool_checkbox",
       "attribut_label": "Présence de juvéniles ? (si oui ne pas les compter)"
