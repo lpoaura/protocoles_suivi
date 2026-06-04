@@ -29,10 +29,9 @@
       "attribut_label": "Effectif au delà de 100m"
     },
     "code_atlas":  {
-      "attribut_name": "code_atlas",
       "type_widget": "select",
       "required": false,
-      "label": "Code atlas",
+      "attribut_label": "Code atlas",
       "values": [
           {
               "id": 1,
