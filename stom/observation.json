@@ -71,15 +71,15 @@
           },
           {
               "id": 10,
-              "label": "10 - Transport de matériaux"
+              "label": "10 - Oiseau simulant une blessure"
           },
           {
               "id": 11,
-              "label": "11 - Nid vide ayant été utilisé"
+              "label": "11 - Découverte d'un nid"
           },
           {
               "id": 12,
-              "label": "12 - Adulte quittant un nid occupé"
+              "label": "12 - Jeunes venant de s'envoler "
           },
           {
               "id": 13,
@@ -91,11 +91,11 @@
           },
           {
               "id": 15,
-              "label": "15 - Jeunes récemment envolés"
+              "label": "15 - Nid avec oeufs"
           },
           {
               "id": 16,
-              "label": "16 - Nid occupé"
+              "label": "16 - Jeunes au nid vus ou entendus"
           }
       ]
   },
