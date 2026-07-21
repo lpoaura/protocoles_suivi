@@ -32,72 +32,23 @@
       "type_widget": "select",
       "required": false,
       "attribut_label": "Code atlas",
-      "values": [
-          {
-              "id": 1,
-              "label": "1 - Espèce observée"
-          },
-          {
-              "id": 2,
-              "label": "2 - Mâle chanteur"
-          },
-          {
-              "id": 3,
-              "label": "3 - Couple en période de reproduction"
-          },
-          {
-              "id": 4,
-              "label": "4 - Comportement territorial"
-          },
-          {
-              "id": 5,
-              "label": "5 - Parade nuptiale"
-          },
-          {
-              "id": 6,
-              "label": "6 - Visite d'un site de nidification probable"
-          },
-          {
-              "id": 7,
-              "label": "7 - Cri d'alarme ou comportement agité"
-          },
-          {
-              "id": 8,
-              "label": "8 - Plaque incubatrice"
-          },
-          {
-              "id": 9,
-              "label": "9 - Construction d'un nid"
-          },
-          {
-              "id": 10,
-              "label": "10 - Oiseau simulant une blessure"
-          },
-          {
-              "id": 11,
-              "label": "11 - Découverte d'un nid"
-          },
-          {
-              "id": 12,
-              "label": "12 - Jeunes venant de s'envoler "
-          },
-          {
-              "id": 13,
-              "label": "13 - Adulte gagnant ou quittant un site de nidification"
-          },
-          {
-              "id": 14,
-              "label": "14 - Transport de nourriture"
-          },
-          {
-              "id": 15,
-              "label": "15 - Nid avec oeufs"
-          },
-          {
-              "id": 16,
-              "label": "16 - Jeunes au nid vus ou entendus"
-          }
-      ]
+      "values": [ "1 - Espèce observée",
+                  "2 - Mâle chanteur",
+                  "3 - Couple en période de reproduction",
+                  "4 - Comportement territorial",
+                  "5 - Parade nuptiale",
+                  "6 - Visite d'un site de nidification probable",
+                  "7 - Cri d'alarme ou comportement agité",
+                  "8 - Plaque incubatrice",
+                  "9 - Construction d'un nid",
+                  "10 - Oiseau simulant une blessure",
+                  "11 - Découverte d'un nid",
+                  "12 - Jeunes venant de s'envoler ",
+                  "13 - Adulte gagnant ou quittant un site de nidification",
+                  "14 - Transport de nourriture",
+                  "15 - Nid avec oeufs",
+                  "16 - Jeunes au nid vus ou entendus"
+                ]
   },
     "presence_juvenile": {
       "type_widget": "bool_checkbox",
